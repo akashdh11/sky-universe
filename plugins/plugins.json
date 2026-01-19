@@ -14,7 +14,7 @@
         ],
         "baseUrl": "MAIN_URL",
         "iconUrl": "",
-        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/disney_plus.sky"
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/disney_plus.sky"
     },
     {
         "id": "dev.akash.stars.hs",
@@ -31,7 +31,7 @@
         ],
         "baseUrl": "MAIN_URL",
         "iconUrl": "",
-        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/hotstar_mirror.sky"
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/hotstar_mirror.sky"
     },
     {
         "id": "dev.akash.stars.nf",
@@ -48,7 +48,7 @@
         ],
         "baseUrl": "MAIN_URL",
         "iconUrl": "",
-        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/netflix_mirror.sky"
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/netflix_mirror.sky"
     },
     {
         "id": "dev.akash.stars.pv",
@@ -65,7 +65,7 @@
         ],
         "baseUrl": "MAIN_URL",
         "iconUrl": "",
-        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/prime_video.sky"
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/prime_video.sky"
     },
     {
         "id": "dev.akash.stars.ringz",
@@ -82,7 +82,7 @@
         ],
         "baseUrl": "MAIN_URL",
         "iconUrl": "",
-        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/ringz.sky"
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/ringz.sky"
     },
     {
         "id": "dev.akash.stars.streamflix",
@@ -99,7 +99,7 @@
         ],
         "baseUrl": "MAIN_URL",
         "iconUrl": "",
-        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/streamflix.sky"
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/streamflix.sky"
     },
     {
         "id": "dev.akash.stars.yts",
@@ -116,6 +116,6 @@
         ],
         "baseUrl": "MAIN_URL",
         "iconUrl": "",
-        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/yts.sky"
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/yts.sky"
     }
 ]
