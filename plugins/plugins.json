@@ -1,0 +1,121 @@
+[
+    {
+        "id": "dev.akash.stars.dp",
+        "name": "Disney Plus",
+        "internalName": "disney_plus",
+        "version": 1,
+        "authors": [
+            "Akash"
+        ],
+        "description": "Disney Plus Provider",
+        "language": "en",
+        "tvTypes": [
+            "Movie"
+        ],
+        "baseUrl": "MAIN_URL",
+        "iconUrl": "",
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/disney_plus.sky"
+    },
+    {
+        "id": "dev.akash.stars.hs",
+        "name": "Hotstar Mirror",
+        "internalName": "hotstar_mirror",
+        "version": 1,
+        "authors": [
+            "Akash"
+        ],
+        "description": "Hulu Provider",
+        "language": "en",
+        "tvTypes": [
+            "Movie"
+        ],
+        "baseUrl": "MAIN_URL",
+        "iconUrl": "",
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/hotstar_mirror.sky"
+    },
+    {
+        "id": "dev.akash.stars.nf",
+        "name": "Netflix Mirror",
+        "internalName": "netflix_mirror",
+        "version": 1,
+        "authors": [
+            "Akash"
+        ],
+        "description": "YTS Provider",
+        "language": "en",
+        "tvTypes": [
+            "Movie"
+        ],
+        "baseUrl": "MAIN_URL",
+        "iconUrl": "",
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/netflix_mirror.sky"
+    },
+    {
+        "id": "dev.akash.stars.pv",
+        "name": "Prime Video",
+        "internalName": "prime_video",
+        "version": 1,
+        "authors": [
+            "Akash"
+        ],
+        "description": "YTS Provider",
+        "language": "en",
+        "tvTypes": [
+            "Movie"
+        ],
+        "baseUrl": "MAIN_URL",
+        "iconUrl": "",
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/prime_video.sky"
+    },
+    {
+        "id": "dev.akash.stars.ringz",
+        "name": "Ringz",
+        "internalName": "ringz",
+        "version": 1,
+        "authors": [
+            "Akash"
+        ],
+        "description": "YTS Provider",
+        "language": "en",
+        "tvTypes": [
+            "Movie"
+        ],
+        "baseUrl": "MAIN_URL",
+        "iconUrl": "",
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/ringz.sky"
+    },
+    {
+        "id": "dev.akash.stars.streamflix",
+        "name": "StreamFlix 2.0",
+        "internalName": "streamflix",
+        "version": 1,
+        "authors": [
+            "Akash"
+        ],
+        "description": "YTS Provider",
+        "language": "en",
+        "tvTypes": [
+            "Movie"
+        ],
+        "baseUrl": "MAIN_URL",
+        "iconUrl": "",
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/streamflix.sky"
+    },
+    {
+        "id": "dev.akash.stars.yts",
+        "name": "YTS",
+        "internalName": "YTS",
+        "version": 1,
+        "authors": [
+            "Akash"
+        ],
+        "description": "YTS Provider",
+        "language": "en",
+        "tvTypes": [
+            "Movie"
+        ],
+        "baseUrl": "MAIN_URL",
+        "iconUrl": "",
+        "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugin/yts.sky"
+    }
+]
