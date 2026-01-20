@@ -1,5 +1,5 @@
-# 🌌 SkyStream - Universe
-SkyStream - Universe is a extension repo for [SkyStream](https://github.com/akashdh11/skystream). Follow the guide below to get started and set up your providers.
+# 🌌 Sky - Universe
+Sky - Universe is an extension repo for [SkyStream](https://github.com/akashdh11/skystream). Follow the guide below to get started and set up your providers.
 
 ## 🚀 Getting Started
 
