@@ -1,9 +1,0 @@
-{
-    "name": "Stars Repository",
-    "id": "dev.akash.stars",
-    "description": "SkyStream plugins repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/plugins.json"
-    ]
-}
