@@ -151,5 +151,22 @@
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
     "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/yts.sky"
+  },
+  {
+    "id": "dev.phisher.stars.4khdhub",
+    "name": "4KhdHub",
+    "internalName": "4KhdHub",
+    "version": 1,
+    "authors": [
+      "Phisher"
+    ],
+    "description": "4KhdHub Provider",
+    "language": "en",
+    "tvTypes": [
+      "Movie"
+    ],
+    "baseUrl": "MAIN_URL",
+    "iconUrl": "",
+    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/FourKHDHub.sky"
   }
 ]
