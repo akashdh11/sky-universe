@@ -3,7 +3,7 @@
     "id": "dev.akash.stars.dp",
     "name": "Disney Plus",
     "internalName": "disney_plus",
-    "version": 2,
+    "version": 3,
     "authors": [
       "Akash"
     ],
@@ -20,7 +20,7 @@
     "id": "dev.akash.stars.hs",
     "name": "Hotstar",
     "internalName": "hotstar_mirror",
-    "version": 2,
+    "version": 3,
     "authors": [
       "Akash"
     ],
@@ -71,7 +71,7 @@
     "id": "dev.akash.stars.pv",
     "name": "Prime Video",
     "internalName": "prime_video",
-    "version": 3,
+    "version": 4,
     "authors": [
       "Akash"
     ],
