@@ -1,39 +1,5 @@
 [
   {
-    "id": "dev.akash.stars.dp",
-    "name": "Disney Plus",
-    "internalName": "disney_plus",
-    "version": 3,
-    "authors": [
-      "Akash"
-    ],
-    "description": "Disney Plus Provider",
-    "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
-    "baseUrl": "MAIN_URL",
-    "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/disney_plus.sky"
-  },
-  {
-    "id": "dev.akash.stars.hs",
-    "name": "Hotstar",
-    "internalName": "hotstar_mirror",
-    "version": 3,
-    "authors": [
-      "Akash"
-    ],
-    "description": "Hotstar Provider",
-    "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
-    "baseUrl": "MAIN_URL",
-    "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/hotstar_mirror.sky"
-  },
-  {
     "id": "dev.akash.skystream.moviesdrive",
     "name": "Movies Drive",
     "internalName": "movies_drive",
@@ -49,40 +15,6 @@
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
     "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/movies_drive.sky"
-  },
-  {
-    "id": "dev.akash.stars.nf",
-    "name": "Netflix",
-    "internalName": "netflix_mirror",
-    "version": 2,
-    "authors": [
-      "Akash"
-    ],
-    "description": "Netflix Provider",
-    "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
-    "baseUrl": "MAIN_URL",
-    "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/netflix_mirror.sky"
-  },
-  {
-    "id": "dev.akash.stars.pv",
-    "name": "Prime Video",
-    "internalName": "prime_video",
-    "version": 4,
-    "authors": [
-      "Akash"
-    ],
-    "description": "Prime Video Provider",
-    "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
-    "baseUrl": "MAIN_URL",
-    "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/prime_video.sky"
   },
   {
     "id": "dev.akash.stars.ringz",
@@ -170,7 +102,7 @@
     "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/FourKHDHub.sky"
   }
   {
-    "id": "dev.phisher.stars.Yflix",
+    "id": "dev.akash.stars.Yflix",
     "name": "Yflix",
     "internalName": "Yflix",
     "version": 1,
