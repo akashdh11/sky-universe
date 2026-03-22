@@ -4,6 +4,6 @@
     "description": "SkyStream Universe plugins repository",
     "manifestVersion": 1,
     "repos": [
-        "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/repo.json"
+        "https://raw.githubusercontent.com/akashdh11/skystream-plugins/main/repo.json"
     ]
 }
