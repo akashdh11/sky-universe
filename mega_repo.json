@@ -5,6 +5,7 @@
     "manifestVersion": 1,
     "repos": [
         "https://raw.githubusercontent.com/akashdh11/skystream-plugins/main/repo.json",
-        "https://raw.githubusercontent.com/likhithkrishna1103-tech/Hindmovie/main/repo.json"
+        "https://raw.githubusercontent.com/likhithkrishna1103-tech/Hindmovie/main/repo.json",
+        "https://raw.githubusercontent.com/RizkyM2999/FeliStream/refs/heads/main/repo.json"
     ]
 }
